@@ -50,6 +50,6 @@ Archive selfies are organized into two temporal categories:
 - Base Version - Selfies + ID photos only (no archive photos)
 - Enhanced Version - Selfies + ID photos + temporal archive (old/recent categories) 
 
-[[Contact us](https://axonlabs.pro/?utm_source=github&utm_medium=cpc&utm_campaign=profile&utm_content=profile_link)] to choose the version that fits your business needs
+[Contact us](https://axonlabs.pro/?utm_source=github&utm_medium=cpc&utm_campaign=profile&utm_content=profile_link) to choose the version that fits your business needs
 
 keywords: biometric system, biometric system attacks, biometric dataset, face recognition database, face recognition dataset, face detection dataset, facial analysis, object detection dataset, deep learning datasets, computer vision datset, human images dataset, human faces dataset
